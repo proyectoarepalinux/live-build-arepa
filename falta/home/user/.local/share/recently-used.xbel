@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lxde/Desktop/wallpaper.zip" added="2013-10-05T23:37:12Z" modified="2013-10-05T23:37:12Z" visited="2013-10-05T23:37:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2013-10-05T23:37:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lxde/Desktop/imagenes/canaima_lxde_1600x1200.jpg" added="2013-10-05T23:44:08Z" modified="2013-10-05T23:44:08Z" visited="2013-10-05T23:44:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-10-05T23:44:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lxde/imagenes/canaima_lxde_1600x1200.jpg" added="2013-10-06T00:18:10Z" modified="2013-10-06T00:18:10Z" visited="2013-10-06T00:18:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-10-06T00:18:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lxde/arepa-usb.txt" added="2013-10-07T00:34:27Z" modified="2013-10-07T19:51:24Z" visited="2013-10-07T00:34:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2013-10-07T19:51:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lxde/Imagenes/canaima_lxde_1600x1200.jpg" added="2013-10-07T16:55:30Z" modified="2013-10-07T16:55:30Z" visited="2013-10-07T16:55:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-10-07T16:55:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

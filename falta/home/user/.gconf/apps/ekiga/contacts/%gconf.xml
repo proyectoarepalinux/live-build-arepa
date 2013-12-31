@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="ldap_servers" mtime="1381013438" type="string">
+		<stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;list&gt;&lt;server&gt;&lt;name&gt;Directorio Ekiga.net&lt;/name&gt;&lt;uri&gt;ldap://ekiga.net/dc=ekiga,dc=net?givenName,telephoneNumber?sub?(cn=$)&lt;/uri&gt;&lt;authcID/&gt;&lt;password/&gt;&lt;/server&gt;&lt;/list&gt;
+</stringvalue>
+	</entry>
+	<entry name="roster" mtime="1381013438" type="string">
+		<stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;list&gt;&lt;entry uri=&quot;sip:500@ekiga.net&quot; preferred=&quot;false&quot;&gt;&lt;name&gt;Prueba de eco&lt;/name&gt;&lt;group&gt;Servicios&lt;/group&gt;&lt;/entry&gt;&lt;entry uri=&quot;sip:501@ekiga.net&quot; preferred=&quot;false&quot;&gt;&lt;name&gt;Sala de conferencia&lt;/name&gt;&lt;group&gt;Servicios&lt;/group&gt;&lt;/entry&gt;&lt;entry uri=&quot;sip:520@ekiga.net&quot; preferred=&quot;false&quot;&gt;&lt;name&gt;Prueba de llamada&lt;/name&gt;&lt;group&gt;Servicios&lt;/group&gt;&lt;/entry&gt;&lt;/list&gt;
+</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="incoming_call_sound" mtime="1381013438" type="string">
+		<stringvalue>/usr/share/sounds/ekiga/ring.wav</stringvalue>
+	</entry>
+</gconf>

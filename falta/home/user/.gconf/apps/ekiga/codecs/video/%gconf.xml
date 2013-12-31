@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="media_list" mtime="1381013437" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>theora*90000*0*SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>h261*90000*0*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>H263*90000*0*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>H263-1998*90000*0*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>H264*90000*0*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>MP4V-ES*90000*0*SIP*1</stringvalue>
+		</li>
+	</entry>
+</gconf>

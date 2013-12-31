@@ -1,0 +1,15 @@
+Proyecto Canaima Arepa USB.
+--------------------------
+
+Descripción: Proyecto que crea un live-usb basado en GNU/Linux Debian para la distribución GNU/Linux Canaima.
+ La distribución está enfocada en el escritorio LXDE.
+
+Desarrolladores:
+	* Ernesto Crespo <ecrespo@gmail.com>
+	* Franklin Mendez <franklin.g.mendoza@gmail.com>
+	* Hector Mantellini <xombra.com@gmail.com>
+	* Jesus Lara <jesuslarag@gmail.com>
+	* Jesus Palencia <sinfallas@gmail.com>
+	* William Cabrera <cabrerawilliam@gmail.com>
+
+

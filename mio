@@ -1,0 +1,86 @@
+Proyecto Arepa  LiNUX USB
+Basada en Debian  jessie_32, jessie_64 ]
+Rolling Release
+
+Se adquirirá dominio "arepalinux.org"
+
+Se creará wiki - 
+
+Conformación
+
+ LXDE -  
+ LibreOffice Oficial  
+ gwibber  
+ icewasel backport  
+ icedove  
+ pidgin 
+ thunar 
+ cliente SIP
+ ekiga
+ lxterm
+ mplayer (codec de debian-multimedia)libavformat
+ leafpad
+ brasero
+ evince
+ ristreeto
+ rhymtbox
+ pulseaudio bien configurado (jacksd2) 
+ configuraciones de sysctl - 
+
+Otros
+
+ grub con un theme
+ bootsplash - usplash
+
+ Kernel 3.10 backports 
+ carga systemV
+ 1 tty  
+ flash-nonfree opcional
+ compton (revisar)
+ orca - seraph
+
+ cfdisk utilidad de disco con su dependencia
+ testdisk 
+ extundelete 
+
+ fileroller - Investigar
+ unzip
+ p7zip-full
+ unrar-free
+
+ printconf - probar
+ hplip    cups
+ gutenprinting
+ gspca
+ wireless-tools
+ network-manager
+
+buscar detector de hw de kali linux o knoppix
+
+ firmware-linux-free
+ 
+ ssh
+
+Opciones de instalación
+
+ anaconda
+
+Creación:
+
+buildboot
+ buildmaster
+ buildslave
+  3 buildboots 
+  1. aplicación web recepción de aplicaciones.
+  2. agarra el fuente lo envía al buildslave.
+ 
+Creación distro:
+
+¿simple-cdd o Live build?
+
+Arquitecturas soportadas
+
+i686, amd64, arm
+
+
+

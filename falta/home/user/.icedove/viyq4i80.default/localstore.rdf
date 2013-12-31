@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul#header-view-toolbox"
+                   mode="full"
+                   iconsize="small"
+                   labelalign="end" />
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul">
+    <NC:persist RDF:resource="chrome://messenger/content/messenger.xul#messengerWindow"/>
+    <NC:persist RDF:resource="chrome://messenger/content/messenger.xul#messagepaneboxwrapper"/>
+    <NC:persist RDF:resource="chrome://messenger/content/messenger.xul#header-view-toolbox"/>
+    <NC:persist RDF:resource="chrome://messenger/content/messenger.xul#header-view-toolbar"/>
+    <NC:persist RDF:resource="chrome://messenger/content/messenger.xul#attachment-view-toolbox"/>
+    <NC:persist RDF:resource="chrome://messenger/content/messenger.xul#attachment-view-toolbar"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul#messagepaneboxwrapper"
+                   collapsed="true" />
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul#messengerWindow"
+                   screenX="0"
+                   screenY="26"
+                   sizemode="normal"
+                   width="1020"
+                   height="717" />
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul#attachment-view-toolbar"
+                   iconsize="small" />
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul#attachment-view-toolbox"
+                   mode="full"
+                   iconsize="small"
+                   labelalign="end" />
+  <RDF:Description RDF:about="chrome://messenger/content/messenger.xul#header-view-toolbar"
+                   iconsize="small" />
+</RDF:RDF>

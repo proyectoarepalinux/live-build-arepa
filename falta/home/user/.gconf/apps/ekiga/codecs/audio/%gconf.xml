@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="media_list" mtime="1381013437" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>Speex*16000*1*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>PCMU*8000*1*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>PCMA*8000*1*H.323 SIP*1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>iLBC*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>gsm*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>G722*16000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>G7221*16000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>AMR-WB*16000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>Speex*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>G726-16*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>G726-24*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>G726-32*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>G726-40*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>ms-gsm*8000*1*H.323*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>SILK*16000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>SILK*8000*1*H.323 SIP*0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>MS-IMA-ADPCM*8000*1*H.323*0</stringvalue>
+		</li>
+	</entry>
+</gconf>

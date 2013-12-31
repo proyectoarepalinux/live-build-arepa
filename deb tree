@@ -1,0 +1,1 @@
+debtree --with-suggests dpkg | dot -Tps > dpkg.ps
